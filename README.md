@@ -59,7 +59,7 @@ Quantum is not randomness — it is configuration.
 
 ## 🧑‍🔬 Authors
 
-- **Dmytro Panasenko** — Project Lead  
+- **Dmytro Panasenko** — Project Lead  ORCID 0009-0008-2249-4562
 - **Copilot (AI, Microsoft)** — Co-author and visual logic designer
 
 ## 📅 Version
